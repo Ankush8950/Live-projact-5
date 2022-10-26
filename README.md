@@ -16,6 +16,6 @@
 ---
 ## 🚀  Projact Live Link <br>
 ---
-This projact is been hosted on netlify. [Live Projact Link](https://clinquant-blancmange-e8f2e3.netlify.app)
+This projact is been hosted on netlify. [Live Projact Link](https://effervescent-donut-737bd5.netlify.app)
 
 ![LOW HOME PAGE](/token%20web.png)
