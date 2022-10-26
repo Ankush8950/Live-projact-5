@@ -11,11 +11,11 @@
 
 
 ---
-# Time to Complete projact
+# Time to Complete project
 > around 1 hours
 ---
-## 🚀  Projact Live Link <br>
+## 🚀  Project Live Link <br>
 ---
-This projact is been hosted on netlify. [Live Projact Link](https://effervescent-donut-737bd5.netlify.app)
+This project is been hosted on netlify. [Live Project Link](https://effervescent-donut-737bd5.netlify.app)
 
 ![LOW HOME PAGE](/token%20web.png)
